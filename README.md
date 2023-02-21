@@ -1,2 +1,2 @@
 # WebSocketHeartbeat
-WebSocket wtih a heartbeat, auto reconnect, and a time on connect
+WebSocket for javascript clients with a heartbeat, auto reconnect, and a time on connect
