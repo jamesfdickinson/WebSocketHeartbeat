@@ -57,7 +57,7 @@ export default class WebSocketHeartbeat {
     };
     cleanupWebSocket() {
         //clean up old websocket and event handler to it
-        if (this.socket) {
+        if (this.ws) {
             this.ws.onopen = null;
             this.ws.onclose = null;
             this.ws.onmessage = null;
