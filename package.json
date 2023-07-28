@@ -1,6 +1,6 @@
 {
   "name": "websocket-heartbeat-timeout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WebSocket for javascript clients with a heartbeat, auto reconnect, and a time out connect",
   "exports": "./WebSocketHeartbeat.js",
   "type": "module",
